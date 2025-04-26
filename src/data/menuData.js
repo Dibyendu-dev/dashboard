@@ -12,7 +12,7 @@ export const sidebarData = [
       label: "Fee",
       children: [
         { label: "Manage Fee" },
-        { label: "Fee Receipt (Offline & Online)" },
+        { label: "Fee Receipt " },
         { label: "Setup Fee Header" },
         { label: "Add Fee Concession" },
         { label: "Customize Fee" }
@@ -21,7 +21,7 @@ export const sidebarData = [
     {
       label: "Students",
       children: [
-        { label: "Admission (Personal Details with Documents)" },
+        { label: "Students Details" },
         { label: "Attendance" },
         { label: "Feedback for Teachers" }
       ]

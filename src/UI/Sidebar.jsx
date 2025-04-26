@@ -71,7 +71,7 @@ const Sidebar = ({ menuData, isOpen, toggleSidebar, onMenuItemClick }) => {
                       className="py-2 px-3 rounded-lg cursor-pointer text-gray-300 hover:bg-indigo-700 hover:text-white transition-colors duration-150 flex items-center"
                       onClick={() => onMenuItemClick(item)}
                     >
-                      <div className="w-2 h-2 bg-gray-400 rounded-full mr-2"></div>
+                     
                       {item.label}
                     </div>
                   ))}

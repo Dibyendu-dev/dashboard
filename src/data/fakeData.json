@@ -1,0 +1,452 @@
+[
+    {
+      "id": 1,
+      "name": "Regina Paul",
+      "email": "stewartdavid@hotmail.com",
+      "age": 34,
+      "rollNo": "2025R001",
+      "semester": 1,
+      "dob": "1990-07-08"
+    },
+    {
+      "id": 2,
+      "name": "Bobby Turner",
+      "email": "sgray@mcdonald.info",
+      "age": 31,
+      "rollNo": "2025B002",
+      "semester": 6,
+      "dob": "1994-03-17"
+    },
+    {
+      "id": 3,
+      "name": "Matthew Carr",
+      "email": "jowens@rollins-cruz.com",
+      "age": 28,
+      "rollNo": "2022M003",
+      "semester": 8,
+      "dob": "1996-05-26"
+    },
+    {
+      "id": 4,
+      "name": "Leroy Lewis",
+      "email": "tsnyder@mckenzie-martinez.com",
+      "age": 28,
+      "rollNo": "2023L004",
+      "semester": 3,
+      "dob": "1996-12-30"
+    },
+    {
+      "id": 5,
+      "name": "Melissa Haas",
+      "email": "wmiller@lee.com",
+      "age": 34,
+      "rollNo": "2023M005",
+      "semester": 7,
+      "dob": "1990-07-27"
+    },
+    {
+      "id": 6,
+      "name": "Brandon Trujillo",
+      "email": "michelle27@gmail.com",
+      "age": 32,
+      "rollNo": "2022B006",
+      "semester": 8,
+      "dob": "1992-11-28"
+    },
+    {
+      "id": 7,
+      "name": "Selena Morgan",
+      "email": "murphydaniel@gmail.com",
+      "age": 28,
+      "rollNo": "2022S007",
+      "semester": 4,
+      "dob": "1997-03-11"
+    },
+    {
+      "id": 8,
+      "name": "Matthew Cochran",
+      "email": "sarahampton@williams-mack.com",
+      "age": 28,
+      "rollNo": "2022M008",
+      "semester": 8,
+      "dob": "1996-08-18"
+    },
+    {
+      "id": 9,
+      "name": "Albert Rivera",
+      "email": "crystalanderson@hotmail.com",
+      "age": 26,
+      "rollNo": "2024A009",
+      "semester": 4,
+      "dob": "1999-02-11"
+    },
+    {
+      "id": 10,
+      "name": "Leslie Alvarado",
+      "email": "vsutton@gmail.com",
+      "age": 31,
+      "rollNo": "2023L010",
+      "semester": 8,
+      "dob": "1993-07-13"
+    },
+    {
+      "id": 11,
+      "name": "Taylor Randolph",
+      "email": "zsmith@gmail.com",
+      "age": 34,
+      "rollNo": "2022T011",
+      "semester": 7,
+      "dob": "1990-12-18"
+    },
+    {
+      "id": 12,
+      "name": "Erin Walker",
+      "email": "thomas13@gmail.com",
+      "age": 33,
+      "rollNo": "2025E012",
+      "semester": 1,
+      "dob": "1991-11-08"
+    },
+    {
+      "id": 13,
+      "name": "Emily Douglas",
+      "email": "ambercoffey@duncan.com",
+      "age": 22,
+      "rollNo": "2025E013",
+      "semester": 2,
+      "dob": "2003-04-13"
+    },
+    {
+      "id": 14,
+      "name": "Carolyn Watson",
+      "email": "jamesriley@norris.net",
+      "age": 28,
+      "rollNo": "2024C014",
+      "semester": 5,
+      "dob": "1996-08-16"
+    },
+    {
+      "id": 15,
+      "name": "Sherry Bryant",
+      "email": "bgarcia@yahoo.com",
+      "age": 23,
+      "rollNo": "2024S015",
+      "semester": 1,
+      "dob": "2001-07-06"
+    },
+    {
+      "id": 16,
+      "name": "James Zimmerman",
+      "email": "christopher11@gutierrez.com",
+      "age": 28,
+      "rollNo": "2025J016",
+      "semester": 4,
+      "dob": "1997-03-13"
+    },
+    {
+      "id": 17,
+      "name": "Mark Holloway",
+      "email": "kristin87@martinez-blevins.com",
+      "age": 30,
+      "rollNo": "2023M017",
+      "semester": 2,
+      "dob": "1995-02-06"
+    },
+    {
+      "id": 18,
+      "name": "Christina Juarez",
+      "email": "owright@jackson-ramirez.com",
+      "age": 36,
+      "rollNo": "2022C018",
+      "semester": 5,
+      "dob": "1989-04-08"
+    },
+    {
+      "id": 19,
+      "name": "Hayden Coleman",
+      "email": "ephillips@leon.com",
+      "age": 33,
+      "rollNo": "2025H019",
+      "semester": 7,
+      "dob": "1992-02-04"
+    },
+    {
+      "id": 20,
+      "name": "Susan Arias",
+      "email": "michaelnielsen@gmail.com",
+      "age": 32,
+      "rollNo": "2025S020",
+      "semester": 7,
+      "dob": "1993-04-01"
+    },
+    {
+      "id": 21,
+      "name": "Aaron Watson",
+      "email": "zkennedy@roy-hebert.com",
+      "age": 22,
+      "rollNo": "2023A021",
+      "semester": 7,
+      "dob": "2003-02-25"
+    },
+    {
+      "id": 22,
+      "name": "Brandi Small",
+      "email": "wperez@stewart-johnston.com",
+      "age": 34,
+      "rollNo": "2023B022",
+      "semester": 3,
+      "dob": "1990-05-10"
+    },
+    {
+      "id": 23,
+      "name": "Dylan Schultz",
+      "email": "tatedustin@lewis-thomas.com",
+      "age": 26,
+      "rollNo": "2025D023",
+      "semester": 4,
+      "dob": "1999-03-15"
+    },
+    {
+      "id": 24,
+      "name": "Paul Campbell",
+      "email": "morrismarvin@hotmail.com",
+      "age": 35,
+      "rollNo": "2022P024",
+      "semester": 4,
+      "dob": "1989-07-03"
+    },
+    {
+      "id": 25,
+      "name": "Mary Webster",
+      "email": "gabriellaaustin@hotmail.com",
+      "age": 28,
+      "rollNo": "2023M025",
+      "semester": 8,
+      "dob": "1997-03-04"
+    },
+    {
+      "id": 26,
+      "name": "Howard Dickson",
+      "email": "summersamy@gmail.com",
+      "age": 30,
+      "rollNo": "2025H026",
+      "semester": 6,
+      "dob": "1995-05-02"
+    },
+    {
+      "id": 27,
+      "name": "Micheal Carr",
+      "email": "denise43@yahoo.com",
+      "age": 25,
+      "rollNo": "2025M027",
+      "semester": 7,
+      "dob": "2000-03-19"
+    },
+    {
+      "id": 28,
+      "name": "Kathryn Washington",
+      "email": "bbennett@bonilla.com",
+      "age": 33,
+      "rollNo": "2023K028",
+      "semester": 6,
+      "dob": "1992-01-13"
+    },
+    {
+      "id": 29,
+      "name": "Sierra Gonzalez",
+      "email": "miguel72@gmail.com",
+      "age": 32,
+      "rollNo": "2022S029",
+      "semester": 2,
+      "dob": "1992-11-10"
+    },
+    {
+      "id": 30,
+      "name": "Justin Perez",
+      "email": "mary33@gmail.com",
+      "age": 27,
+      "rollNo": "2024J030",
+      "semester": 1,
+      "dob": "1997-10-30"
+    },
+    {
+      "id": 31,
+      "name": "Erin James",
+      "email": "kimberly87@gmail.com",
+      "age": 26,
+      "rollNo": "2025E031",
+      "semester": 8,
+      "dob": "1998-05-26"
+    },
+    {
+      "id": 32,
+      "name": "Joseph Ryan",
+      "email": "wluna@johnson-mcguire.biz",
+      "age": 28,
+      "rollNo": "2025J032",
+      "semester": 1,
+      "dob": "1996-08-21"
+    },
+    {
+      "id": 33,
+      "name": "Crystal Thomas",
+      "email": "gsmith@hotmail.com",
+      "age": 26,
+      "rollNo": "2022C033",
+      "semester": 5,
+      "dob": "1998-06-29"
+    },
+    {
+      "id": 34,
+      "name": "Spencer West",
+      "email": "georgerichardson@moody-stone.com",
+      "age": 30,
+      "rollNo": "2022S034",
+      "semester": 1,
+      "dob": "1995-02-03"
+    },
+    {
+      "id": 35,
+      "name": "Brooke Butler",
+      "email": "lindawhite@gmail.com",
+      "age": 22,
+      "rollNo": "2023B035",
+      "semester": 3,
+      "dob": "2002-12-20"
+    },
+    {
+      "id": 36,
+      "name": "Joseph Thompson",
+      "email": "sallen@dean-richardson.org",
+      "age": 23,
+      "rollNo": "2023J036",
+      "semester": 4,
+      "dob": "2001-06-17"
+    },
+    {
+      "id": 37,
+      "name": "Shelley Villegas",
+      "email": "michael56@gray.com",
+      "age": 30,
+      "rollNo": "2025S037",
+      "semester": 7,
+      "dob": "1995-04-11"
+    },
+    {
+      "id": 38,
+      "name": "Kenneth Key",
+      "email": "pamela38@hotmail.com",
+      "age": 31,
+      "rollNo": "2025K038",
+      "semester": 3,
+      "dob": "1993-05-21"
+    },
+    {
+      "id": 39,
+      "name": "Jamie Dean",
+      "email": "uthomas@herrera.com",
+      "age": 28,
+      "rollNo": "2025J039",
+      "semester": 1,
+      "dob": "1997-01-03"
+    },
+    {
+      "id": 40,
+      "name": "Kristy Cobb",
+      "email": "chavezkevin@winters.com",
+      "age": 34,
+      "rollNo": "2025K040",
+      "semester": 8,
+      "dob": "1990-12-02"
+    },
+    {
+      "id": 41,
+      "name": "Melissa Hernandez",
+      "email": "victoriaberry@yahoo.com",
+      "age": 22,
+      "rollNo": "2024M041",
+      "semester": 3,
+      "dob": "2002-11-08"
+    },
+    {
+      "id": 42,
+      "name": "Lisa Salinas",
+      "email": "twolf@yahoo.com",
+      "age": 24,
+      "rollNo": "2022L042",
+      "semester": 4,
+      "dob": "2001-03-17"
+    },
+    {
+      "id": 43,
+      "name": "Traci Gonzalez",
+      "email": "bmcdaniel@tyler-adams.com",
+      "age": 27,
+      "rollNo": "2022T043",
+      "semester": 1,
+      "dob": "1997-11-11"
+    },
+    {
+      "id": 44,
+      "name": "David Carroll",
+      "email": "gmiller@yahoo.com",
+      "age": 34,
+      "rollNo": "2023D044",
+      "semester": 8,
+      "dob": "1990-06-05"
+    },
+    {
+      "id": 45,
+      "name": "Tracey Cobb",
+      "email": "zgordon@kennedy.com",
+      "age": 31,
+      "rollNo": "2022T045",
+      "semester": 3,
+      "dob": "1993-07-01"
+    },
+    {
+      "id": 46,
+      "name": "Frederick Griffith",
+      "email": "ehernandez@murray-chan.com",
+      "age": 23,
+      "rollNo": "2023F046",
+      "semester": 6,
+      "dob": "2002-01-31"
+    },
+    {
+      "id": 47,
+      "name": "Barbara Lewis",
+      "email": "mtyler@hotmail.com",
+      "age": 23,
+      "rollNo": "2024B047",
+      "semester": 2,
+      "dob": "2001-10-10"
+    },
+    {
+      "id": 48,
+      "name": "Mary Rodriguez",
+      "email": "fhill@cook-hensley.info",
+      "age": 32,
+      "rollNo": "2025M048",
+      "semester": 4,
+      "dob": "1992-11-24"
+    },
+    {
+      "id": 49,
+      "name": "James James",
+      "email": "smithjessica@powers.com",
+      "age": 27,
+      "rollNo": "2025J049",
+      "semester": 8,
+      "dob": "1997-06-09"
+    },
+    {
+      "id": 50,
+      "name": "Shelby Tucker",
+      "email": "matthewtaylor@jackson.info",
+      "age": 28,
+      "rollNo": "2022S050",
+      "semester": 6,
+      "dob": "1996-10-15"
+    }
+  ]

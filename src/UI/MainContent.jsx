@@ -6,7 +6,12 @@ const MainContent = ({ activeContent }) => {
       {activeContent && (
         <div className="bg-white rounded-lg shadow p-6">
           <h2 className="text-2xl font-bold mb-4 text-gray-800">{activeContent.title}</h2>
+          {activeContent.content && (
           <div className="text-gray-600">{activeContent.content}</div>
+        )}
+        {activeContent.component && (
+          <div className="mt-4">{activeContent.component}</div>
+          )}
         </div>
       )}
     </main>
